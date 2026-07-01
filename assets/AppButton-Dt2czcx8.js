@@ -1,0 +1,1 @@
+import{st as e}from"./Stack-BEiHUoYm.js";import{pt as t}from"./index-DcpdbRmW.js";var n=e();function r({emphasis:e=`secondary`,size:r=`small`,children:i,...a}){let o=e===`primary`?`contained`:e===`text`?`text`:`outlined`;return(0,n.jsx)(t,{...a,variant:o,size:r,disableElevation:!0,className:`scada-button`,children:i})}export{r as t};
